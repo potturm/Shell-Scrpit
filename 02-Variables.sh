@@ -9,4 +9,4 @@ echo "timestamp now is :$DA"
 # 3. How to read values from cli 
 Num1=$1
 Num2=$2
-echo "sum of 2 numbers is ($Num1+$Num2)"
+echo "sum of 2 numbers is $(($Num1+$Num2))"
