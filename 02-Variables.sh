@@ -10,3 +10,9 @@ echo "timestamp now is :$DA"
 Num1=$1
 Num2=$2
 echo "sum of 2 numbers is $(($Num1+$Num2))"
+# 4.Read the inputs from cli 
+echo " Enter usrname"
+read user
+echo "the username is $user"
+read -s pass
+echo "the password is $pass"
