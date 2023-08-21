@@ -1,2 +1,2 @@
 #!/bin/bash
-eccho "Hi Hello world , I am learning Devops"
+echo "Hi Hello world , I am learning Devops"
